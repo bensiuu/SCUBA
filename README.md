@@ -1,12 +1,12 @@
 # Installation
-Create virtual env:
+#Create virtual env:
   python -m venv .venv
-Activate venv:
+#Activate venv:
   .venv\Scripts\activate
   source .venv/bin/activate(linux)
-install packages:
+#install packages:
 pip install -r requirements.txt
-download required MediaPipe model:
+#download required MediaPipe model:
 
 hand_landmarker.task
 
